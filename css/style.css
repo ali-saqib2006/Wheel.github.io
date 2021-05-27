@@ -134,7 +134,7 @@ p {
 
 /*-------------------------------PAGE 1 STYLING----------------- */
 main .site-title {
-  background: url(/media/1.jpg);
+  background: url(media/1.jpg);
   background-size: cover;
   height: 100vh;
   display: flex;
